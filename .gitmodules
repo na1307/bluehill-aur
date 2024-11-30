@@ -1,0 +1,45 @@
+[submodule "yay"]
+	path = yay
+	url = https://aur.archlinux.org/yay.git
+[submodule "dotnet-core-bin"]
+	path = dotnet-core-bin
+	url = https://aur.archlinux.org/dotnet-core-bin.git
+[submodule "ttf-nanum"]
+	path = ttf-nanum
+	url = https://aur.archlinux.org/ttf-nanum.git
+[submodule "ttf-d2coding"]
+	path = ttf-d2coding
+	url = https://aur.archlinux.org/ttf-d2coding.git
+[submodule "google-chrome"]
+	path = google-chrome
+	url = https://aur.archlinux.org/google-chrome.git
+[submodule "visual-studio-code-bin"]
+	path = visual-studio-code-bin
+	url = https://aur.archlinux.org/visual-studio-code-bin.git
+[submodule "rider"]
+	path = rider
+	url = https://aur.archlinux.org/rider.git
+[submodule "unityhub"]
+	path = unityhub
+	url = https://aur.archlinux.org/unityhub.git
+[submodule "polychromatic"]
+	path = polychromatic
+	url = https://aur.archlinux.org/polychromatic.git
+[submodule "gtkhash-thunar"]
+	path = gtkhash-thunar
+	url = https://aur.archlinux.org/gtkhash-thunar.git
+[submodule "peazip-qt-bin"]
+	path = peazip-qt-bin
+	url = https://aur.archlinux.org/peazip-qt-bin.git
+[submodule "vmware-keymaps"]
+	path = vmware-keymaps
+	url = https://aur.archlinux.org/vmware-keymaps.git
+[submodule "vmware-workstation"]
+	path = vmware-workstation
+	url = https://aur.archlinux.org/vmware-workstation.git
+[submodule "dotnet-core-8.0-bin"]
+	path = dotnet-core-8.0-bin
+	url = https://aur.archlinux.org/dotnet-core-8.0-bin.git
+[submodule "git-credential-manager"]
+	path = git-credential-manager
+	url = https://aur.archlinux.org/git-credential-manager.git
