@@ -43,3 +43,15 @@
 [submodule "git-credential-manager"]
 	path = git-credential-manager
 	url = https://aur.archlinux.org/git-credential-manager.git
+[submodule "protonup-qt"]
+	path = protonup-qt
+	url = https://aur.archlinux.org/protonup-qt.git
+[submodule "python-inputs"]
+	path = python-inputs
+	url = https://aur.archlinux.org/python-inputs.git
+[submodule "python-steam"]
+	path = python-steam
+	url = https://aur.archlinux.org/python-steam.git
+[submodule "python-vdf"]
+	path = python-vdf
+	url = https://aur.archlinux.org/python-vdf.git
