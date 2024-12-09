@@ -34,3 +34,6 @@
 [submodule "albert"]
 	path = albert
 	url = https://aur.archlinux.org/albert.git
+[submodule "dotnet-core-8.0-bin"]
+	path = dotnet-core-8.0-bin
+	url = https://aur.archlinux.org/dotnet-core-8.0-bin.git
